@@ -60,9 +60,6 @@ $exporter = new MageExporterForMagento();
 // Class to hold all functionality for the exporter
 class MageExporterForMagento
 {
-
-
-
 	// Set the password to export data here
 	const PASSWORD = '3925a75afe1d82cf4f25965024807154';
 	// extracted salt of system default key - itahmid
